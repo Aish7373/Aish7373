@@ -1,0 +1,7 @@
+updated list: [10, 2, 4, 5, 6]
+updated dictionary: {'name': 'John', 'city': 'Mumbai', 'gender': 'male'}
+updated set: {2, 4, 5, 6, 10}
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
